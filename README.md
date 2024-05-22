@@ -24,6 +24,7 @@
 - Enhancing my knowledge in Machine Learning
 - Exploring advanced Python frameworks
 - Build more efficient applications
+- Responsive web design
 
 ---
 
