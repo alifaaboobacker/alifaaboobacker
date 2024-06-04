@@ -10,6 +10,7 @@ Here's the updated version including the logos for each technology:
 - **Python**
   - ![Django](https://img.icons8.com/color/48/000000/django.png) Django
   - ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png) Flask
+  - Rasa
 - **JavaScript**
   - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
   - ![React](https://img.icons8.com/color/48/000000/react-native.png) React.js
@@ -21,7 +22,7 @@ Here's the updated version including the logos for each technology:
 - **Other Technologies**
   - ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) Angular
   - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
-  - ![Rasa](https://img.icons8.com/ios/50/000000/chatbot.png) Rasa
+  
 
 🤖 **Passionate about Machine Learning**
 
