@@ -1,6 +1,3 @@
-Here's the updated version including the logos for each technology:
-
----
 
 # Hey, I'm Alifa Aboobacker! 👋
 
