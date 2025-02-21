@@ -17,7 +17,6 @@
   - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
   - ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL
 - **Other Technologies**
-  - ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) Angular
   - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
   
 
@@ -34,6 +33,7 @@
 - Exploring advanced Python frameworks
 - Building more efficient applications
 - Responsive web design
+- Build more efficient applications on full stack.
 
 ---
 
